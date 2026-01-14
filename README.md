@@ -4,7 +4,7 @@ Plugin automatyzuje proces eksportu w GIMP 3.0, oferując dwie główne funkcje:
 
 ## 🎥 Demonstracja
 
-[![Obejrzyj wideo demonstracyjne](assets/demo-preview.jpg)](assets/demo.mp4)
+[![Obejrzyj wideo demonstracyjne na YouTube](https://img.youtube.com/vi/ap8Dtz0twOM/maxresdefault.jpg)](https://youtu.be/ap8Dtz0twOM)
 
 *Kliknij w obrazek powyżej, aby odtworzyć wideo.*
 
