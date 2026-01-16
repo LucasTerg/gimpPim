@@ -1,4 +1,4 @@
-# Plugin Eksportu Warstw i Obrazów PIM dla GIMP 3.0
+# Plugin Eksportu Warstw i Obrazów dla GIMP 3.0
 
 Plugin automatyzuje proces eksportu w GIMP 3.0, oferując dwie główne funkcje: masowy eksport warstw z jednego pliku oraz masowy eksport wszystkich otwartych obrazów. Wtyczka automatycznie dba o nazewnictwo plików, usuwanie polskich znaków i numerację.
 
