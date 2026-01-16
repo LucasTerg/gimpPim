@@ -63,3 +63,6 @@ Wtyczka dodaje nowe menu w: **Filtry -> gimp-PIM**
 
 ---
 *PIM Plugin 2026*
+
+## 🖼️ Podgląd (Windows)
+![Animowany podgląd działania wtyczki](assets/win/preview.gif)
