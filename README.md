@@ -62,7 +62,7 @@ Wtyczka dodaje nowe menu w: **Filtry -> gimp-PIM**
 4. **Utwórz podkatalog**: Jeśli zaznaczone, stworzy folder `.../buty-zimowe/` i tam zapisze pliki.
 
 ---
-*PIM Plugin 2026*
+*gimpPim Plugin 2026*
 
 ## 🖼️ Podgląd (Windows)
 ![Animowany podgląd działania wtyczki](assets/win/preview.gif)
